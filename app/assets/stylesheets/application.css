@@ -34,7 +34,7 @@
 	#logo a
 	{
 	  display:inline-block;
-	  margin:28px 0;
+	  margin:28px 0 0;
 	  width:350px;
 	  height:123px;
 	  background:url('/assets/logo.jpg') top center no-repeat;
