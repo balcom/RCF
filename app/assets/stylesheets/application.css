@@ -17,6 +17,7 @@
 		}
 		body {
 			font-family: Georgia, "Times New Roman", Times, serif;
+			color:#444;
 		}
 		
 	#page_container
@@ -213,7 +214,7 @@ footer
 }
 
 footer p {
-  font-size:13px;
+  font-size:12px;
 padding:3px 0;
 font-variant: small-caps;
 color: #737577;
