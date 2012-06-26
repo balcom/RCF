@@ -126,6 +126,7 @@
 	
 		#organizations {
 			width: 1000px;
+			margin-top:7px;
 		}
 		#organizations li {
 			display: inline-block;
